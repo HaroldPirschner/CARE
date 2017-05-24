@@ -1,0 +1,39 @@
+appearance default {
+	lineWidth 2
+	background (144,207,238)
+}
+
+appearance labelFont {
+	font ("Sans",10)
+}
+
+nodeStyle characterNode(1) {
+	roundedRectangle {
+		size (120,65)
+		corner (10,10)
+		text {
+			appearance labelFont
+			position ( CENTER, TOP 4 )	
+		 	value "%s"
+		}
+		image {
+			position (CENTER, TOP 24)
+		 	size (fix 32, fix 32)	
+		 	path ( "icons/Character.png" )
+		}
+        polyline {
+			points [ (7,64) (113,64) ]
+		}
+	}
+}
+
+edgeStyle genericRelation(1) {
+	appearance default
+	decorator {
+		location (0.3)
+		movable
+		text {
+			value "%s"
+		}
+	}
+}

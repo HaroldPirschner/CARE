@@ -1,0 +1,7 @@
+cincoProduct CARE {
+
+	mgl "model/Character.mgl"
+	mgl "model/Location.mgl"
+	mgl "model/CARE.mgl"
+	
+}

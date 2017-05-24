@@ -1,0 +1,10 @@
+@style("model/Location.style")
+graphModel Location {
+	package info.scce.cinco.product.CARE
+	nsURI "http://cinco.scce.info/product/location"
+	iconPath "icons/Location.png"
+	diagramExtension "loc"
+	
+	attr EString as locationName
+	
+}

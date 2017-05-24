@@ -1,0 +1,12 @@
+	
+@style("model/Character.style")
+graphModel Character {
+	package info.scce.cinco.product.CARE
+	nsURI "http://cinco.scce.info/product/character"
+	iconPath "icons/Character.png"
+	diagramExtension "char"
+	
+	attr EString as characterName
+	
+}
+
