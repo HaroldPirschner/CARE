@@ -1,7 +1,6 @@
-	
 @style("model/Character.style")
 graphModel Character {
-	package info.scce.cinco.product.CARE
+	package info.scce.cinco.product.care.character
 	nsURI "http://cinco.scce.info/product/character"
 	iconPath "icons/Character.png"
 	diagramExtension "char"

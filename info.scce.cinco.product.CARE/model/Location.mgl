@@ -1,6 +1,6 @@
 @style("model/Location.style")
 graphModel Location {
-	package info.scce.cinco.product.CARE
+	package info.scce.cinco.product.care.location
 	nsURI "http://cinco.scce.info/product/location"
 	iconPath "icons/Location.png"
 	diagramExtension "loc"

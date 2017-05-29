@@ -1,8 +1,8 @@
-@style("model/CARE.style")
-graphModel CARE {
-	package info.scce.cinco.product.CARE
+@style("model/Care.style")
+graphModel Care {
+	package info.scce.cinco.product.care
 	nsURI "http://cinco.scce.info/product/care"
-	iconPath "icons/CARE.png"
+	iconPath "icons/care.png"
 	diagramExtension "care"
 	
 	attr EString as modelName
@@ -16,6 +16,7 @@ graphModel CARE {
 	node Character {
 		attr EString as name
 		outgoingEdges (GenericRelation)
+		incomingEdges (GenericRelation)
 	}
 }
 

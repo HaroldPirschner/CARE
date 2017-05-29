@@ -1,0 +1,9 @@
+
+@disableGratext
+cincoProduct Care {
+
+	//mgl "model/Character.mgl"
+	//mgl "model/Location.mgl"
+	mgl "model/Care.mgl"
+	
+}
