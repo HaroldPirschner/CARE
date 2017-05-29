@@ -13,7 +13,7 @@ graphModel Care {
 	}
 	
 	@style(characterNode, "${name}")
-	node Character {
+	node CharacterNode {
 		attr EString as name
 		outgoingEdges (GenericRelation)
 		incomingEdges (GenericRelation)

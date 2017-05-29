@@ -2,7 +2,7 @@
 src-gen/
 bin/
 *.project
-META-INF/
+META-INF/MANIFEST.MF
 build.properties
 plugin.xml
 resources-gen/
