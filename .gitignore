@@ -1,0 +1,7 @@
+*.classpath
+src-gen/
+bin/
+*.project
+META-INF/
+build.properties
+plugin.xml
