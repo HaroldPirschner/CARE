@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="CARE.svg"
-   inkscape:export-filename="/home/dennis/workspace/CARE/info.scce.cinco.product.CARE/icons/CARE.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="care.svg"
+   inkscape:export-filename="/home/dennis/workspace/CARE/icons/care.png"
+   inkscape:export-xdpi="14.4"
+   inkscape:export-ydpi="14.4">
   <defs
      id="defs4">
     <linearGradient
@@ -192,9 +192,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="1855"
      inkscape:window-height="1056"
-     inkscape:window-x="1920"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -218,7 +218,7 @@
        id="g4350">
       <path
          transform="matrix(4.4987055,0,0,4.4987055,-110.47338,458.86394)"
-         d="m 46.340749,120.81213 a 10.669736,10.669736 0 1 1 -21.339472,0 10.669736,10.669736 0 1 1 21.339472,0 z"
+         d="m 46.340749,120.81213 c 0,5.89274 -4.777004,10.66974 -10.669736,10.66974 -5.892733,0 -10.669736,-4.777 -10.669736,-10.66974 0,-5.89273 4.777003,-10.66973 10.669736,-10.66973 5.892732,0 10.669736,4.777 10.669736,10.66973 z"
          sodipodi:ry="10.669736"
          sodipodi:rx="10.669736"
          sodipodi:cy="120.81213"
